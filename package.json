@@ -1,0 +1,17 @@
+{
+  "name": "proffy",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alisson Kendi Kohatsu <kohatsukendi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3",
+    "@proffy/eslint-config": "*"
+  }
+}
